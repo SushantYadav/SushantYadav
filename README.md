@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SushantYadav](https://github.com/SushantYadav)
 
-- 💬 Ask me about **Javascript, Angular**
+- 💬 Ask me about **Javascript, Angular, Apache Cordova, Hybrid Apps**
 
 - 📫 How to reach me **yadavsushant321@gmail.com**
 
